@@ -1,4 +1,4 @@
- /*#include <stdio.h>
+/*#include <stdio.h>
 int main(void){
  int a,b,c, d;
  a=1;
@@ -64,4 +64,3 @@ int main(void){
       }
       return 0;
       }*/
-

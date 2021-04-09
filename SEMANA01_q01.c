@@ -1,22 +1,8 @@
 /*#include <stdio.h>
-int main ( ){
-
-  float valori, descont, valorf;
-  
-  printf ("Digite o valor da sua compra\n");
-  scanf ("%f", &valori);
-  if(valori<=100){
-  printf("R$%.2f",valori);
-  }else {
-  if (valori>200){
-    valorf=valori-(valori*0.1);
-    printf("R$%.2f", valorf);
- }
-  else {
-    valorf=valori-
-    (valori*0.05);
-    printf("R$%.2f",valorf);
-  }  
-  }
+int main(void){
+int a,b;
+printf("Digite um número qualquer: \n");
+scanf("%i %i", &a, &b);
+printf("%i %i %i %i %i %i",a-1,a,a+1,b-1,b,b+1);
 return 0;
 }*/
